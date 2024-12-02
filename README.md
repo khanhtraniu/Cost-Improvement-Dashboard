@@ -9,8 +9,5 @@ I create Dashboard on both Excel and Power BI.
 - Power BI to visualize data
 - Excel since my managers can not open PBI dashboard on the computer
 
-## 3. Process
 
-
-## 4. Key Findings
 
